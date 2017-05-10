@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+    <!--  hive所在的服务器ip  -->
+    <host>192.168.12.10</host>
+
+    <!-- python连接hive的端口号 -->
+    <port>10000</port>
+
+    <!--  -->
+    <authMechanism>PLAIN</authMechanism>
+    
+    <!-- 用户名 -->
+    <user>root</user>
+    
+    <!-- 密码 -->
+    <password>123456</password>
+    
+    <!-- hive中的数据库名 -->
+    <database>default</database>
+    
+    <!-- hive中的字段分隔符 -->
+    <delimiter>$</delimiter>
+    
+</config>

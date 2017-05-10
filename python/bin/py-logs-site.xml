@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+    <!--  日志保存路径  -->
+    <logpath> /opt/xdtr_project/ASMC/logs </logpath>
+
+    <!-- 每个脚本对应的日志文件大小，单位MB -->
+    <logsize> 1 </logsize>
+
+    <!-- 每个脚本保存的日志文件个数 -->
+    <lognum> 3 </lognum>
+    
+    <!-- 日志 保存类型：info、warning或者error-->
+    <logtype> info </logtype>
+</config>

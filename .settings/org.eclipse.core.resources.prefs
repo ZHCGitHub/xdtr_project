@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//python/bin/Py_ASMC_CreateTable.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_MD_APP_OPER_LOG.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_MD_APP_OPER_UNUSUAL_LOG.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_MOD_NUMBER_DAY.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_MOD_NUMBER_MON.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_PLAT_NUMBER_DAY.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_PLAT_NUMBER_MON.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_SYS_PHOTO_DAY.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_SYS_PHOTO_MON.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_SYS_RISK_NUMBER_DAY.py=utf-8
+encoding//python/bin/Py_ASMC_Insert_TB_BS_RP_SYS_RISK_NUMBER_MON.py=utf-8
+encoding//python/bin/Py_ASMC_Load_LS_APP_OPER_LOG.py=utf-8
+encoding//python/bin/Py_Con_Hive.py=utf-8
+encoding//python/bin/Py_log.py=utf-8

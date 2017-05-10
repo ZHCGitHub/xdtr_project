@@ -1,0 +1,26 @@
+#原始日志表
+drop table TB_ASMC_LS_APP_OPER_LOG;
+drop table TB_ASMC_MD_APP_OPER_LOG;
+drop table TB_ASMC_DIC_IP_AREA_CODE;
+drop table TB_ASMC_DIC_TIME_CATALOG;
+#梁哥汇总分析后的表
+drop table TB_BS_MD_USER_APP_INFO_DAY;
+drop table TB_BS_MD_USER_APP_INFO_MON;
+drop table TB_BS_MD_USER_OPER_INFO_DAY;
+drop table TB_BS_MD_USER_OPER_INFO_MON;
+drop table TB_BS_RP_USER_OPER_PHOTO_DAY;
+drop table TB_BS_RP_USER_OPER_PHOTO_MON;
+drop table TB_BS_RP_USER_RISK_PHOTO_DAY;
+drop table TB_BS_RP_USER_RISK_PHOTO_MON;
+#维表
+drop table TB_BS_DIC_REG;
+drop table TB_BS_DIC_PHOTO;
+#前台展示表
+drop table TB_BS_RP_SYS_RISK_NUMBER_DAY;
+drop table TB_BS_RP_SYS_RISK_NUMBER_MON;
+drop table TB_BS_RP_PLAT_NUMBER_DAY;
+drop table TB_BS_RP_PLAT_NUMBER_MON;
+drop table TB_BS_RP_MOD_NUMBER_DAY;
+drop table TB_BS_RP_MOD_NUMBER_MON;
+drop table TB_BS_RP_SYS_PHOTO_DAY;
+drop table TB_BS_RP_SYS_PHOTO_MON;
